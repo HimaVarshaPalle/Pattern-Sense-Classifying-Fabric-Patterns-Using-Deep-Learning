@@ -114,4 +114,16 @@ Visit `http://127.0.0.1:5000/` in your browser to use the app.
 
 **Project:** Pattern Sense  
 **Task:** Classifying fabric patterns using Deep Learning  
-**Interface:** Built with Flask  
+**Interface:** Built with Flask
+
+---
+
+## 👥 Team
+
+- Chandrakantha Lokeswari (Team Leader)  
+- Hima Varsha Palle  
+- Dileep Tunga  
+- V Sunny  
+- Guda Mamatha  
+
+**Team ID**: LTVIP2025TMID37339
